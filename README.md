@@ -1,5 +1,5 @@
 <p align="center">
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/1367dd1f3cd86a33009eebd1a8dc20a2ab01dc94cba6fba7.png)
+<image src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/1367dd1f3cd86a33009eebd1a8dc20a2ab01dc94cba6fba7.png" />
 </p>
 
 ---
